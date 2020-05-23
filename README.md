@@ -10,7 +10,7 @@ $cpan install Filter::Crypto
 
 #Next To Clone
 $ git globe https://github.com/MrTamfanX/akasdork
-$ CD akasdork
+$ cd akasdork
 $ perl akas-dork.pl
 
 Pilih nomernya contoh 1, lalu masukan dorknya. Contoh : product.php?id=
